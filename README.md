@@ -1,0 +1,1 @@
+在Touch事件下不影响UITableView的事件，获取点击的坐标点。
